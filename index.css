@@ -1,6 +1,7 @@
 body {
-    color: aqua;
+    color:  black;
     background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 ul  {
@@ -8,4 +9,9 @@ ul  {
     justify-content: space-between;
     list-style-type: none;
     aling-items: center;
+    padding: 16xp;
 }
+
+a{
+    color: white;
+}   text-decoration: none;
